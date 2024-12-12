@@ -1,0 +1,4 @@
+backgroundImage: `url(${type==="service" ? "./planets.png":"./sun.png"})`
+
+
+
